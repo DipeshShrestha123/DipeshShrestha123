@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello There! I'm <a href='https://kartikeysharma.github.io/' target="_blank">Kartikey Sharma</a> </h1>
+<h1 align="center">Hello There! I'm <a href='https://kartikeysharma.github.io/' target="_blank">Dipesh Shrestha</a> </h1>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/kartikeysm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikeysharma" height="30" width="40" /></a>
@@ -17,10 +17,8 @@
 
 ## I'm an Android enthusiast and a student!  
 
-- 👨‍💻 I’m currently working on Android and Backend Development.
-- 📚 I’m delving into the world of web development using JavaScript.
+- 👨‍💻 I’m currently working on Android Development and DSA.
 - 💪🏼 Future Goals: Improving myself each day.
-- ⚡ Fun fact: I am working on something secret :)
 <br>
 
 ---
@@ -37,22 +35,9 @@
 ### IDEs and Tools
 [![My IDEs and Tools](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,github,figma,postman)](https://skillicons.dev)
 
-### Socials
-[![My Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord,devto)](https://skillicons.dev)
 ---
 
 <br/>
-<h2 align="center"> Github Statistics 📈 </h2>
- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KartikeySharma&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeySharma&layout=compact&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=KartikeySharma&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a><br><br>
 
 <!--START_SECTION:waka-->
 
