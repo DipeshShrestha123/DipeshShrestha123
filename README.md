@@ -24,24 +24,18 @@
 ---
 
 ### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,python,cpp,html,css,c++)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,html,css)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries
-[![My Development](https://skillicons.dev/icons?i=androidstudio,gradle,ktor,react)](https://skillicons.dev)
+[![My Development](https://skillicons.dev/icons?i=androidstudio,gradle)](https://skillicons.dev)
 
 ### Databases and Cloud Platforms 🛠 
-[![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,gcp,firebase)](https://skillicons.dev)
+[![My Databases and Cloud](https://skillicons.dev/icons?i=firebase,mysql,sqlite)](https://skillicons.dev)
 
 ### IDEs and Tools
-[![My IDEs and Tools](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,github,figma,postman)](https://skillicons.dev)
+[![My IDEs and Tools](https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,github,postman)](https://skillicons.dev)
 
 ---
 
 <br/>
 
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
-<!-- 
-![Snake animation](https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-snake.svg) -->
