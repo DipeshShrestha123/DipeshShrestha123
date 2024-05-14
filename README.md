@@ -1,4 +1,4 @@
-
+![Banner](https://github.com/DipeshShrestha123/Dipesh_Shrestha/blob/main/image/banner.png)
 <h1 align="center">Hello There! I'm <a href='https://dipesh_shrestha.github.io/' target="_blank">Dipesh Shrestha</a> </h1>
 
 <p align='center'>
